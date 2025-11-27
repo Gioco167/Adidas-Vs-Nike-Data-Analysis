@@ -12,7 +12,8 @@ Replaced 426 Nike rows with missing listing prices using sale price values (beca
 Removed 89 duplicate product IDs.
 Converted price fields to correct format (/100).
 Prepared final dataset with consistent pricing, discounting, and rating metrics.
-📊 Key Findings
+
+Key Findings
 1. Pricing Strategy – Nike is Premium, Adidas is Mid-Price
 Supported by the listing price distribution graph on page 3 .
 Adidas has a narrow peak around €50–€80 → tightly clustered mid-price products.
