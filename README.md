@@ -1,9 +1,6 @@
 # Adidas-Vs-Nike
 Investigated how Adidas and Nike position their products through pricing, discounts, customer engagement, and satisfaction.
-Our analysis answers the three main research questions outlined on page 7 of the project description :
-How do pricing strategies differ between Adidas and Nike, and how do price, discounts, and customer ratings relate?
-Which brand achieves higher engagement (reviews) and satisfaction (ratings)?
-Do the brands follow distinct product-positioning strategies?
+Our analysis answers the three main research questions outlined on page 7 of the project description: How do pricing strategies differ between Adidas and Nike, and how do price, discounts, and customer ratings relate? Which brand achieves higher engagement (reviews) and satisfaction (ratings)? Do the brands follow distinct product-positioning strategies?
 
 Data Cleaning & Preparation
 According to the cleaning summary (page 2 of the presentation ):
